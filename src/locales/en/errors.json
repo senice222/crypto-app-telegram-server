@@ -1,0 +1,10 @@
+{
+  "error_retrieving_stats": "❌ Failed to retrieve user statistics.",
+  "error_retrieving_subscriptions": "❌ Failed to retrieve subscriptions.",
+  "error_initiating_payment": "❌ Error initiating payment: {{error}}",
+  "error_completing_payment": "❌ Error completing payment: {{error}}",
+  "error_updating_payment": "❌ Error updating payment status: {{error}}",
+  "unable_identify_user": "Unable to identify your user ID.",
+  "invalid_subscription_id": "Please provide a valid subscription ID.",
+  "invalid_payment_id": "Please provide a valid payment ID."
+}

@@ -1,0 +1,6 @@
+{
+  "user_statistics": "📊 *User Statistics*:\n- *Total Users:* {{totalUsers}}\n- *Users in Last 24 Hours:* {{usersLast24h}}\n- *Users in Last Week:* {{usersLastWeek}}\n- *Users in Last Month:* {{usersLastMonth}}\n- *Users with Subscriptions:* {{usersWithSubs}}\n- *Users without Subscriptions:* {{usersWithoutSubs}}",
+  "ban_fail": "❌ Failed to ban the user.",
+  "unban_fail": "❌ Failed to unban the user.",
+  "invalid_user_id": "Please provide a valid user ID."
+}

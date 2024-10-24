@@ -1,0 +1,5 @@
+{
+  "ban_success": "✅ User {{userId}} has been banned.",
+  "unban_success": "✅ User {{userId}} has been unbanned.",
+  "not_authorized": "❌ You are not authorized to perform this action."
+}

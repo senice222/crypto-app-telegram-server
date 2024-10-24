@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "typeRoots": ["./node_modules/@types", "./src/types/declarations"],
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"],
+      "@config/*": ["config/*"],
+      "@bot/*": ["bot/*"],
+      "@database/*": ["database/*"],
+      "@types/*": ["types/*"],
+      "@utils/*": ["utils/*"],
+      "@services/*": ["bot/services/*"],
+      "@controllers/*": ["bot/controllers/*"],
+      "@middlewares/*": ["bot/middlewares/*"],
+      "@keyboards/*": ["bot/keyboards/*"],
+      "@commands/*": ["bot/commands/*"],
+      "@server/*": ["server/*"]
+    }
+  },
+  "include": ["src/**/*", "types/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

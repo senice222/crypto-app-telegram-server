@@ -1,0 +1,248 @@
+[
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:11.377Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:11.387Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:11.407Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:11.413Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:11.463Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.589Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.604Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.605Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.607Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.608Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.609Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.610Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.611Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.613Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:51:46.614Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:52:11.426Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:56:38.349Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.893Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.908Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.909Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.911Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.912Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.914Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.915Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.916Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.917Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.918Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.920Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.921Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:545:9)\n    at processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Operation timeout",
+    "timestamp": "2024-10-18T20:59:27.922Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.669Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.673Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.674Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.676Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.677Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.673Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.681Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.683Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "Connection terminated unexpectedly",
+    "timestamp": "2024-10-18T21:03:08.686Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "terminating connection due to administrator command",
+    "timestamp": "2024-10-18T21:03:08.727Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  },
+  {
+    "level": "ERROR",
+    "message": "terminating connection due to administrator command",
+    "timestamp": "2024-10-18T21:03:08.728Z",
+    "trace": "Error: \n    at Logger.logMessage (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:118:16)\n    at Logger.error (/var/www/backend/node_modules/mini-ansi-logger/src/index.ts:193:10)\n    at /var/www/backend/src/bot/middlewares/auth.middleware.ts:86:14\n    at Generator.throw (<anonymous>)\n    at rejected (/var/www/backend/src/bot/middlewares/auth.middleware.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"
+  }
+]

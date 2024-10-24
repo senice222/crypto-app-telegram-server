@@ -1,0 +1,8 @@
+{
+  "subscription_created": "✅ Subscription \"{{name}}\" created successfully.",
+  "subscription_deleted": "✅ Subscription with ID {{id}} deleted successfully.",
+  "subscription_updated": "✅ Subscription with ID {{id}} updated successfully.",
+  "no_subscriptions": "No subscriptions available.",
+  "available_subscriptions": "📄 *Available Subscriptions*:\n\n{{subscriptions}}",
+  "subscription_stats": "📈 Subscription ID {{id}} has {{count}} users."
+}
